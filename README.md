@@ -2,7 +2,7 @@
 #### v0.0.1版本
 提供基础的玩家Fame查询和击杀记录查询功能。
 
-[下载地址](https://github.com/PollexLee/albion-box/releases/tag/0.0.1)
+[下载地址](https://github.com/PollexLee/albion-box/releases)
 
 
 <table>
